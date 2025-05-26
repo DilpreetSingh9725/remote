@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class FUNDAMENTALJAVA {
 public static void main(String[] args) {
+       String names="Dilpreet Singh";
        int numq=12;
 System.out.println(numq);
        Scanner in = new Scanner(System.in);
