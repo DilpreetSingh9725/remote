@@ -3,7 +3,7 @@ package fundamentaljava;
 
 
 public class INFO {
-    
+    private String cname;
    private String name;
    private int id;
    private int semester;
