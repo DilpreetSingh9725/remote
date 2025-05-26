@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class FUNDAMENTALJAVA {
 public static void main(String[] args) {
-       
+       int numq=12;
+System.out.println(numq);
        Scanner in = new Scanner(System.in);
 String word = in.next(); //hello or welcome any word nextLine() jhsf kaf kjahsdfb
 // each char from word , store in array
@@ -29,7 +30,7 @@ s1.setId(1);
     INFO [] list=new INFO[2]; 
 list[0]=s1;
 list[1]=s2;
-int numq=12;
+
 }
 }
 
