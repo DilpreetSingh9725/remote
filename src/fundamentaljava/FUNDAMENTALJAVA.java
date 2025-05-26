@@ -29,7 +29,7 @@ s1.setId(1);
     INFO [] list=new INFO[2]; 
 list[0]=s1;
 list[1]=s2;
-
+int numq=12;
 }
 }
 
